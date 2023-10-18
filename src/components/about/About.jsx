@@ -1,5 +1,4 @@
 import React from "react";
-import info from "./Info";
 import "./about.css";
 import AboutIMG from "../../assets/about.jpg"
 import CV from "../../assets/2-page-cv.pdf"

@@ -24,7 +24,7 @@ const Footer = () => {
                     <a href="https://wa.me/+989120327514" className="footer__social-link" target="_blank">
                         <i className="uil-whatsapp"></i>
                     </a>
-                    <a href="" className="footer__social-link" target="_blank">
+                    <a href="https://github.com/sAlirezayaghoubi" className="footer__social-link" target="_blank">
                         <i className="uil-github-alt"></i>
                     </a>
                 </div>
